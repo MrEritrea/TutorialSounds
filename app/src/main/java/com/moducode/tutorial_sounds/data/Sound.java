@@ -1,4 +1,4 @@
-package com.moducode.tutorial_sounds;
+package com.moducode.tutorial_sounds.data;
 
 /**
  * Created by Jay on 2018-02-12.

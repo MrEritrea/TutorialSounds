@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 
 import com.moducode.tutorial_sounds.R;
 import com.moducode.tutorial_sounds.SoundPlayer;
-import com.moducode.tutorial_sounds.SoundRecyclerAdapter;
+import com.moducode.tutorial_sounds.ui.adapter.SoundRecyclerAdapter;
 
 public class SoundsListFragment extends Fragment {
 

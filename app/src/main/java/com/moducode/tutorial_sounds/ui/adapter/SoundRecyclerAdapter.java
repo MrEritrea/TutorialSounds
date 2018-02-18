@@ -1,11 +1,14 @@
-package com.moducode.tutorial_sounds;
+package com.moducode.tutorial_sounds.ui.adapter;
 
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+
+import com.moducode.tutorial_sounds.R;
+import com.moducode.tutorial_sounds.data.Sound;
+import com.moducode.tutorial_sounds.SoundPlayer;
 
 
 /**
